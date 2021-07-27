@@ -2,6 +2,6 @@
   "Post": {
     "userId": { "string": ['abc123'] },
     "redirectType": { "string": ['lp'] },
-    "redirectId": { "string": ['xyz789'] },
+    "redirectId": { "string": ['xyz789'] }
   }
 }
