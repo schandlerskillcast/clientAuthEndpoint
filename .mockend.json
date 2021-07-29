@@ -1,15 +1,15 @@
 {
   "Post": {
-    "userId1": { "string": [
-      "C0EEA611-0E86-EF6E-DAB762C983C2706B"
+    "userId": { "string": [
+      "C0EEA611-0E86-EF6E-DAB762C983C2706B1"
     ] },
-    "redirectType1": { "string": [
+    "redirectType": { "string": [
       "lp"
     ] },
-    "redirectId1": { "string": [
+    "redirectId": { "string": [
       "8A3746DC-A701-84CC-29FDBAC62D192E37"
     ] },
-    "intentcheck1": { "string": [
+    "intentcheck": { "string": [
       "71BCF5CDE38FCA52655369F689EEBF7DBD2C168C5D14B1DCF30D934790D02DA6"
     ] }
   }
